@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "NodeNext",
+        "outDir": "../out",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        "verbatimModuleSyntax": true,
+        "strict": true,
+        "rewriteRelativeImportExtensions": true,
+        "composite": true
+    }
+}

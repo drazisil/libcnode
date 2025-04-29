@@ -1,2 +1,4 @@
-let message = "Hello, World!";
-console.log(message);
+export function greet(name: string): string {
+    return  `Hello, ${name}!`
+
+}
